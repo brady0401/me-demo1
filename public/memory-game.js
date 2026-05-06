@@ -4,7 +4,10 @@
     { image: "/cats/cat2.jpg", label: "貓咪 2" },
     { image: "/cats/cat3.jpg", label: "貓咪 3" },
     { image: "/cats/cat4.jpg", label: "貓咪 4" },
-    { image: "/cats/cat5.jpg", label: "貓咪 5" }
+    { image: "/cats/cat5.jpg", label: "貓咪 5" },
+    { image: "/cats/cat6.jpg", label: "貓咪 6" },
+    { image: "/cats/cat7.jpg", label: "貓咪 7" },
+    { image: "/cats/cat8.jpg", label: "貓咪 8" }
   ];
 
   const GRID_SIZE = 4;
