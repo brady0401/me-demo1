@@ -1,0 +1,6 @@
+---
+pid: 17828
+cwd: |
+  C:\Users\brady
+---
+PS C:\Users\brady>
